@@ -4,4 +4,4 @@
 
 
 
-![](mignella.gif)
+![](presentationgif.gif)
